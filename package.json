@@ -1,0 +1,11 @@
+{
+  "name": "@aldik-organization/test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
